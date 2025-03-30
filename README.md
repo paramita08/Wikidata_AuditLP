@@ -1,6 +1,7 @@
 # Social Biases in Knowledge Representations of Wikidata separates Global North from Global South
 
 Accepted at ACM WebSci’25
+
 Paramita Das, Sai Keerthana Karnam, Aditya Soni, Animesh Mukherjee. 
 
 ## Abstract
